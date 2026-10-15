@@ -1,0 +1,1 @@
+The CONTRIBUTING.md file provides guidelines for people who want to contribute to an open-source project. It welcomes contributions such as bug reports, bug fixes, documentation improvements, enhancements, and new ideas. It also explains how contributors can get started, report issues, follow project standards, and participate in improving the software.
