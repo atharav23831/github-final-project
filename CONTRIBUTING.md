@@ -1,1 +1,10 @@
-The CONTRIBUTING.md file provides guidelines for people who want to contribute to an open-source project. It welcomes contributions such as bug reports, bug fixes, documentation improvements, enhancements, and new ideas. It also explains how contributors can get started, report issues, follow project standards, and participate in improving the software.
+# Contributing to Simple Interest Calculator
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Push to your branch.
+5. Create a new Pull Request against the main repository.
