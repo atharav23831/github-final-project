@@ -1,1 +1,14 @@
-The `simple-interest.sh` file is a Bash script that calculates simple interest based on user input. It asks the user to enter the principal amount, annual rate of interest, and time period in years. The script applies the simple interest formula and displays the calculated result. This project demonstrates basic Bash scripting, user input handling, arithmetic operations, and output formatting.
+#!/bin/bash
+# Author: atharav23831
+# Description: Script to calculate simple interest given principal, annual rate of interest, and time period in years.
+
+echo "Enter the principal:"
+read p
+echo "Enter rate of interest per year:"
+read r
+echo "Enter time period in years:"
+read t
+
+s=`expr $p \* $t \* $r / 100`
+echo "The simple interest is: "
+echo $s
